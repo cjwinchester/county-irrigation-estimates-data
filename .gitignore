@@ -161,5 +161,4 @@ Temporary Items
 
 # End of https://www.toptal.com/developers/gitignore/api/osx
 
-us-county-irrigation-estimates.csv
 data/*.csv
